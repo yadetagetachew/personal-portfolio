@@ -1,15 +1,35 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/personal-portfolio/static/js/main.d4272282.js",
-    "static/js/787.e02c0aaf.chunk.js": "/personal-portfolio/static/js/787.e02c0aaf.chunk.js",
+    "main.css": "/personal-portfolio/static/css/main.9239a954.css",
+    "main.js": "/personal-portfolio/static/js/main.838c6e47.js",
+    "static/js/787.7eafe636.chunk.js": "/personal-portfolio/static/js/787.7eafe636.chunk.js",
+    "static/media/yg-logo.gif": "/personal-portfolio/static/media/yg-logo.5fa0841aaa08f3e1dd0f.gif",
+    "static/media/yadi-photo.png": "/personal-portfolio/static/media/yadi-photo.51b8e3592ba6fc7d54b5.png",
+    "static/media/hero.png": "/personal-portfolio/static/media/hero.293703bd3d14105cc2f6.png",
+    "static/media/emailLogo.png": "/personal-portfolio/static/media/emailLogo.681fd6b35c4f101dc43f.png",
+    "static/media/nomnom.png": "/personal-portfolio/static/media/nomnom.4ce55b78475ca0599197.png",
+    "static/media/scoreBoard.png": "/personal-portfolio/static/media/scoreBoard.2ddb177404322c651e09.png",
+    "static/media/pokemon.png": "/personal-portfolio/static/media/pokemon.3960b899bf0b15d6d03b.png",
+    "static/media/resume.pdf": "/personal-portfolio/static/media/resume.e15eb4a4d0de9574861a.pdf",
+    "static/media/supersonicmeow.png": "/personal-portfolio/static/media/supersonicmeow.7dadddf6136a6bea48e8.png",
+    "static/media/convert.jpeg": "/personal-portfolio/static/media/convert.0d4f6516711480b39638.jpeg",
+    "static/media/githubLogo.png": "/personal-portfolio/static/media/githubLogo.98dd900385e590e8c00d.png",
+    "static/media/react.png": "/personal-portfolio/static/media/react.8fa476a9a466108da157.png",
+    "static/media/cvLogo.png": "/personal-portfolio/static/media/cvLogo.0db278396b37dd687d01.png",
+    "static/media/myProject.png": "/personal-portfolio/static/media/myProject.049d32b70a1f357b521d.png",
+    "static/media/todolist.jpeg": "/personal-portfolio/static/media/todolist.73e266384502fbb1ae00.jpeg",
+    "static/media/liLogo.png": "/personal-portfolio/static/media/liLogo.aaf3348ddb43f5bdb8cd.png",
+    "static/media/myStory.png": "/personal-portfolio/static/media/myStory.e646b8531b737ce3a583.png",
+    "static/media/motivation.jpeg": "/personal-portfolio/static/media/motivation.e1a5b408088461f2fd18.jpeg",
+    "static/media/css.png": "/personal-portfolio/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/js.png": "/personal-portfolio/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/personal-portfolio/index.html",
-    "main.f855e6bc.css.map": "/personal-portfolio/static/css/main.f855e6bc.css.map",
-    "main.d4272282.js.map": "/personal-portfolio/static/js/main.d4272282.js.map",
-    "787.e02c0aaf.chunk.js.map": "/personal-portfolio/static/js/787.e02c0aaf.chunk.js.map"
+    "main.9239a954.css.map": "/personal-portfolio/static/css/main.9239a954.css.map",
+    "main.838c6e47.js.map": "/personal-portfolio/static/js/main.838c6e47.js.map",
+    "787.7eafe636.chunk.js.map": "/personal-portfolio/static/js/787.7eafe636.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.d4272282.js"
+    "static/css/main.9239a954.css",
+    "static/js/main.838c6e47.js"
   ]
 }
