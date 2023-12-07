@@ -93,7 +93,7 @@ const CardRender = () => {
   ]);
 
   return (
-    <div>
+    <div className='card-wrapper'>
          <div className='title flex justify-center items-center'>
           <img src={myProjects} alt="title" /> 
         </div>
