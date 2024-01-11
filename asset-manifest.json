@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.84924e79.css",
-    "main.js": "/personal-portfolio/static/js/main.f9329344.js",
+    "main.css": "/personal-portfolio/static/css/main.d70d54be.css",
+    "main.js": "/personal-portfolio/static/js/main.9cc2db1e.js",
     "static/js/787.7eafe636.chunk.js": "/personal-portfolio/static/js/787.7eafe636.chunk.js",
     "static/media/yg-logo.gif": "/personal-portfolio/static/media/yg-logo.5fa0841aaa08f3e1dd0f.gif",
     "static/media/yadi-photo.png": "/personal-portfolio/static/media/yadi-photo.51b8e3592ba6fc7d54b5.png",
@@ -24,12 +24,12 @@
     "static/media/css.png": "/personal-portfolio/static/media/css.463e319bad8e0edf1ef7.png",
     "static/media/js.png": "/personal-portfolio/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/personal-portfolio/index.html",
-    "main.84924e79.css.map": "/personal-portfolio/static/css/main.84924e79.css.map",
-    "main.f9329344.js.map": "/personal-portfolio/static/js/main.f9329344.js.map",
+    "main.d70d54be.css.map": "/personal-portfolio/static/css/main.d70d54be.css.map",
+    "main.9cc2db1e.js.map": "/personal-portfolio/static/js/main.9cc2db1e.js.map",
     "787.7eafe636.chunk.js.map": "/personal-portfolio/static/js/787.7eafe636.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84924e79.css",
-    "static/js/main.f9329344.js"
+    "static/css/main.d70d54be.css",
+    "static/js/main.9cc2db1e.js"
   ]
 }
