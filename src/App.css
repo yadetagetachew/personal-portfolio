@@ -82,7 +82,7 @@ body{
 .card {
   color: rgb(255, 255, 255);
   width: 100%;
-  height: 35rem;
+  height: 30rem;
   min-height: fit-content;
   background-color: rgba(202, 200, 236, 0.561);
   display: inline-block;
