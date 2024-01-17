@@ -7,6 +7,7 @@ import Title from './Title';
 import About from './About';
 import Contact from './Contact';
 import myStory from './media/myStory.png';
+import myProjects from './media/myProject.png'
 // import Icon from './svg'
 
 function App() {
@@ -19,11 +20,10 @@ function App() {
       image = {myStory} 
     />
     <About />
-
+    <Title 
+      image = {myProjects} 
+    />
     <Cards />
-    {/* <Title 
-      title="Contact Me"
-    /> */}
     <Contact />
     </div>
   );
