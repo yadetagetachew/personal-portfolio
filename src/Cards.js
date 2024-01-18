@@ -94,9 +94,6 @@ const CardRender = () => {
 
   return (
     <div className='card-wrapper'>
-         {/* <div className='title-header '>
-          <img className='title ' src={myProjects} alt="title" /> 
-        </div> */}
       <div className='card-container'>
         {cardInfo.map((card) => (
           <div className='card' key={card.id}>

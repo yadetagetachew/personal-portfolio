@@ -5,7 +5,6 @@ import resume from './media/cvLogo.png'
 import github from './media/githubLogo.png'
 import cvPdf from './documents/resume.pdf';
 
-
 const Contact = () => {
     return(
         <div>
@@ -21,11 +20,9 @@ const Contact = () => {
                 </a>
                 <a href = {cvPdf} target = "_blank" rel="noopener noreferrer" role="button">
                     <img src={resume} alt="cv logo" />
-                </a>
-                    
+                </a>   
             </div>
         </div>
-
     )
 }
 
