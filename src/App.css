@@ -218,9 +218,10 @@ body{
   margin-left: auto;
   margin-right: auto;
 }
-@media (min-width: 2400px) {
+@media (min-width: 1700px) {
   .about-section{
     max-width: 100rem;
+    padding-left: 7rem;
   }
   
 }
