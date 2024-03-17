@@ -12,14 +12,22 @@ import js from './media/js.png';
 import react from './media/react.png';
 import html from './media/html.png';
 import css from './media/css.png';
-import myProjects from './media/myProject.png'
 
 
 const CardRender = () => {
 // eslint-disable-next-line 
   const [cardInfo] = useState([
     {
-        id: 1,    
+      id: 1,
+      image: scoreBoard,
+      title: 'Score Board',
+      description: 'Scrore keeper for any amount of players.',
+      button: 'Visit Site',
+      link: 'https://imaginative-lamington-45d890.netlify.app/',
+      icons: [css, react]
+  },
+    {
+        id: 2,    
         image: motivation,
         title: 'Quote Generator',
         description: 'Random motivation quote generator.',
@@ -28,7 +36,7 @@ const CardRender = () => {
         icons: [css, html, js]
     },
     {
-        id: 2,
+        id: 3,
         image: nomnom,
         title: 'NomNom',
         description: 'Online food ordering site. ',
@@ -37,7 +45,7 @@ const CardRender = () => {
         icons: [css, html, js]
     },
     {
-        id: 3,
+        id: 4,
         image: convert,
         title: 'Miles to Kilometers',
         description: 'Miles to Kilometers converter.',
@@ -46,7 +54,7 @@ const CardRender = () => {
         icons: [css, html, js]
     },
     {
-        id: 4,
+        id: 5,
         image: carousel,
         title: 'Carosel',
         description: 'Carosel with vannila js and bootstrap.',
@@ -55,7 +63,7 @@ const CardRender = () => {
         icons: [css, html, js]
     },
     {
-      id: 5,
+      id: 6,
       image: supersonicmeow,
       title: 'Super Sonic Meow',
       description: 'Haloween game',
@@ -64,25 +72,16 @@ const CardRender = () => {
       icons: [css, html, js]
       },
       {
-        id: 6,
-        image: scoreBoard,
-        title: 'Score Board',
-        description: 'Scrore keeper for any amount of players.',
-        button: 'Visit Site',
-        link: 'https://imaginative-lamington-45d890.netlify.app/',
-        icons: [css, react]
-    },
-      {
-        id: 6,
+        id: 7,
         image: todolist,
         title: 'To Do List',
         description: 'To do list app.',
         button: 'Visit Site',
-        link: 'https://imaginative-lamington-45d890.netlify.app/',
+        link: 'https://main--delightful-druid-2e4d7a.netlify.app/',
         icons: [css, html, js]
     },
     {
-        id: 7,
+        id: 8,
         image: pokemon,
         title: 'Pokemon',
         description: 'Pokemon Pokedex',

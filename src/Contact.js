@@ -10,16 +10,16 @@ const Contact = () => {
         <div>
             <div className='contact-logo'>
                 <a href="https://linkedin.com/in/yadeta-yadi-getachew" target="_blank" rel="noopener noreferrer" role="button">
-                    <img src={linkedin} alt="LinkedIn logo"></img>
+                    <img className='social' src={linkedin} alt="LinkedIn logo"></img>
                 </a>
                 <a href = "mailto: yadetagetachew@gmail.com">
-                    <img src={email} alt="logo" />
+                    <img className='social' src={email} alt="logo" />
                 </a>
                 <a href="https://github.com/yadetagetachew" target="_blank" rel="noopener noreferrer" role="button">
-                    <img src={github} alt="Github logo"></img>
+                    <img className='social' src={github} alt="Github logo"></img>
                 </a>
                 <a href = {cvPdf} target = "_blank" rel="noopener noreferrer" role="button">
-                    <img src={resume} alt="cv logo" />
+                    <img className='social' src={resume} alt="cv logo" />
                 </a>   
             </div>
         </div>
