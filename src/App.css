@@ -263,7 +263,6 @@ body{
   width: 25rem;
   height: auto;
   display: flex;
-  justify-content: end;
 }
 @media (max-width: 1100px) {
   .about-discription{
